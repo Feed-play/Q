@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-SERVER:@IPTV_ID
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:54809
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/134/zbioskop_dash/media_w7715899232_b1004100_sleng_iptv_id._54809.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/134/zbioskop_dash/media_w7715899232_b1004100_sleng_iptv_id._54810.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/134/zbioskop_dash/media_w7715899232_b1004100_sleng_iptv_id._54811.t
