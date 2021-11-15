@@ -1,0 +1,19 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTE1NzllMWQtOGI0Ni0zNzM2LTg5NTAtNDc1Y2Y2YjhhOGRj
+#EXTINF:-1 group-title="" tvg-id="" tvg-chno="" ch-number="" tvg-logo="",Salam
+http://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=2&limitflux=+1&limitdur=+1&accountinfo=TfGkaAq0HJWBGq1U3P/ELRqDgWhm/c2l3vZX1CC8ALhU45CMhuzS6LFaob5HuEAq4OjBLcMyTPE0+Q8JOGEhEngu1dCzdwD9D2Dxv+T3N/SM6+0W0KPuWkvbWayx1AYENBbCMrHaNGOpxcjkFeBEMA==:20211115040546:UTC,1000283943,183.171.143.139,20211115040546,urn:Huawei:liveTV:iptv47777,1000283943,-1,0,1,,,2,HESA0002,,,2,2593709,0,1499920,ad0fde61-1b01-ed0c-f5da-04140a08d199,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFGihXbDSmJiYamJ1a77lg420KFQTb6_Vup2ZN3ljhBbXS62szAsFNmOiyrkwwCQvheWFVQIznpOE9zpoTlrwvhtcHcyEHfeLE8toRjmvKJOkme5WHty8rB_9GaMWf2yP8dm1qE2y9AmJgnMRHYxdGOjOw-sQ_Twh2MxqTArFK5YrycqSjFPaQLp-GnKBtAj9DSKaTXBfQFvwCckN2is4rKFHPTy8_3HbaD42b38Eewb0AAAA&tenantId=6003|http-user-agent=DmpPlayer/20.0.25.15 (Android 10; d3df7e8e-316e-4498-a616-4b7c0bd94a00; RMX2020)
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113/PlayReady/rightsmanager.asmx?deviceId=ZWQ1NGVkYjUtMjhkMi0zYTgxLWExYzEtY2Y0NjUwYTY1ZDc2
+#EXTINF:-1 group-title="" tvg-id="" tvg-chno="" ch-number="" tvg-logo="",Animax (playready)
+http://centerrrs.hypp.tv/PLTV/88888888/224/3221227835/3221227835.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=2&limitflux=+1&limitdur=+1&accountinfo=TfGkaAq0HJWBGq1U3P/ELRqDgWhm/c2l3vZX1CC8ALhU45CMhuzS6LFaob5HuEAq4OjBLcMyTPE0+Q8JOGEhEojgQgWVu+zWHK4ZRF5FUKHZN01VcdIAcef6Xm1tp8WjNBbCMrHaNGOpxcjkFeBEMA==:20211115053556:UTC,1000283943,183.171.143.139,20211115053556,urn:Huawei:liveTV:XTV51882724,1000283943,-1,0,1,,,2,HESA0002,,,2,2593709,0,1499920,ad0fde61-1b01-ed0c-f5da-04140a08d199,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bL5tEiwqIrJyYmBk3E2ZpH-1oJhWqLJv69MjLbe--5OVNETbsflcOastKArVqdgzQlUCuhsJVs88IWyBLd66AE0-h9N7o6mBn7PW0uGXDgQlRcAGvmu61Htyzrx9BSVPIfO1F8dpqUSZY_MXF0LpLDqQsjP3p8naNfJoyaRS0r5FpUshSwKjM2zWmDqf807IppE4YbRjL74P4AZdEnYjfUPTqqcSA1Prz_codoPjZv005brvQAAAA&tenantId=6003|http-user-agent=DmpPlayer/20.0.25.15 (Android 10; d3df7e8e-316e-4498-a616-4b7c0bd94a00; RMX2020)
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NTE1NzllMWQtOGI0Ni0zNzM2LTg5NTAtNDc1Y2Y2YjhhOGRj
+#EXTINF:-1 group-title="" tvg-id="" tvg-chno="" ch-number="" tvg-logo="",Animax
+http://centerrrs.hypp.tv/PLTV/88888888/224/3221227835/3221227835.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=2&limitflux=+1&limitdur=+1&accountinfo=TfGkaAq0HJWBGq1U3P/ELRqDgWhm/c2l3vZX1CC8ALhU45CMhuzS6LFaob5HuEAq4OjBLcMyTPE0+Q8JOGEhEojgQgWVu+zWHK4ZRF5FUKHZN01VcdIAcef6Xm1tp8WjNBbCMrHaNGOpxcjkFeBEMA==:20211115053556:UTC,1000283943,183.171.143.139,20211115053556,urn:Huawei:liveTV:XTV51882724,1000283943,-1,0,1,,,2,HESA0002,,,2,2593709,0,1499920,ad0fde61-1b01-ed0c-f5da-04140a08d199,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bL5tEiwqIrJyYmBk3E2ZpH-1oJhWqLJv69MjLbe--5OVNETbsflcOastKArVqdgzQlUCuhsJVs88IWyBLd66AE0-h9N7o6mBn7PW0uGXDgQlRcAGvmu61Htyzrx9BSVPIfO1F8dpqUSZY_MXF0LpLDqQsjP3p8naNfJoyaRS0r5FpUshSwKjM2zWmDqf807IppE4YbRjL74P4AZdEnYjfUPTqqcSA1Prz_codoPjZv005brvQAAAA&tenantId=6003|http-user-agent=DmpPlayer/20.0.25.15 (Android 10; d3df7e8e-316e-4498-a616-4b7c0bd94a00; RMX2020)
